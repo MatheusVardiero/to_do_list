@@ -1,1 +1,1 @@
-##### Lista de tarefas utilizando Javascript Vanilla.
+### Lista de tarefas utilizando Javascript Vanilla.
